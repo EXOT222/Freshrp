@@ -1,0 +1,2 @@
+# Freshrp
+FreshRP dicord theme
