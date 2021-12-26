@@ -1,2 +1,2 @@
 # Freshrp
-FreshRP dicord theme
+FreshRP discord theme
